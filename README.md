@@ -1,0 +1,2 @@
+# HZStirngCountAndImgScaleFitCategory
+label的字数限制和图片的大小区域限制
